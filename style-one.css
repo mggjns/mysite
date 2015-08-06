@@ -35,14 +35,14 @@ body {
 .page-divider {
   border-bottom: solid #8c8c8c 2px;
   margin-bottom: 20px;
-  margin-top: 20px; }
+  margin-top: 8px; }
 
 ul {
   list-style: none;
   padding: 0;
   position: relative; }
   ul .list-item {
-    margin-top: 32px;
+    margin-top: 40px;
     overflow: hidden;
     position: relative; }
   ul figure {
